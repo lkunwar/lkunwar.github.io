@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+header {
+    text-align: center;
+}
+h1 {
+    font-size: 2.5em;
+}
+h2 {
+    color: #005f99;
+    font-size: 1.8em;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
